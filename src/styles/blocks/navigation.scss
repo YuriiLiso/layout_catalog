@@ -17,6 +17,7 @@
     font-weight: 500;
     text-decoration: none;
     color: #000;
+    transition: 0.4s;
 
     &--active {
       color: $main-button-color;
